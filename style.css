@@ -1,0 +1,25 @@
+#imgset{
+    height: 400px;
+    width:100%;
+    border:5px solid white;
+
+}
+
+h1{
+    color:white;
+    font-family: "Libre Baskerville", serif;
+    text-align:center;
+    text-transform: uppercase;
+}
+
+h3{
+    color:white;
+    font-family: "Libre Baskerville", serif;
+    text-align:center;
+}
+
+div{
+    width:50%;
+    margin-left:25%;
+}
+
